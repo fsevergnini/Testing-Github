@@ -1,1 +1,2 @@
-testing how to commit new files 
+testing how to commit new files
+adding experimental information 
