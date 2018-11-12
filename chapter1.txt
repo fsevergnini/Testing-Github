@@ -1,1 +1,2 @@
 Testing terminal and GitHub part 1
+Adding second line to file to commit again.
